@@ -1,0 +1,16 @@
+{
+"storeHouse":[
+{"sourceName":"七星","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
+{"sourceName":"自用","sourceUrl":"http://154.8.193.11/tz.php"},
+{"sourceName":"白龙","sourceUrl":"http://39.101.135.137:8686/"},
+{"sourceName":"驸马","sourceUrl":"http://fmys.top/online.json"},
+{"sourceName":"运输","sourceUrl":"https://weixine.net/api.json"},
+{"sourceName":"念心","sourceUrl":"https://pz.nianxin.top/nxD.json"},
+{"sourceName":"开心","sourceUrl":"http://kxrj.site:55"},
+{"sourceName":"朱师","sourceUrl":"https://d.kstore.space/download/5303/zhushifu/002.txt"},
+{"sourceName": "拾光","sourceUrl": "https://gitlab.com/xmbjm/ck/-/raw/main/ck.json"},
+{"sourceName": "码点","sourceUrl": "http://120.79.4.185/dc.json"},
+{"sourceName":"恒星","sourceUrl":"http://恒星.net/hxck1.txt"},
+{"sourceName": "云星","sourceUrl": "http://itvbox.cc/可视仓库/在线仓"}
+]
+}
